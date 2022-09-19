@@ -1,7 +1,7 @@
 import requests
 from time import sleep
 
-SERVER = '85.172.12.254'
+SERVER = 'http://85.172.12.254'
 ROUTE = '/ping_from_lk'
 
 if __name__ == '__main__':
